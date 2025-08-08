@@ -118,7 +118,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/kywabi/kywabi/output/snake.svg" alt="Snake animation" />
 
 ###
 
