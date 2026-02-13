@@ -4,11 +4,11 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is Kyla Bearneza and I'm a Full Stack Developer, from the Philippines.</h2>
+<h2 align="left">Hi 👋! My name is Kyla Bearneza and I'm a Software Developer, from the Philippines.</h2>
 
 ###
 
-<h5 align="left">As a dedicated Full Stack Developer, I specialize in building innovative, user-centric web-based systems that deliver impactful solutions. With a passion for blending technical expertise and creative problem-solving, I excel in crafting seamless, high-quality applications. I’m open to collaborating on freelance projects, both part-time and full-time, and am eager to partner on initiatives that drive meaningful outcomes.</h5>
+<h5 align="left">As a dedicated Developer, I specialize in building innovative, user-centric web-based systems that deliver impactful solutions. With a passion for blending technical expertise and creative problem-solving, I excel in crafting seamless, high-quality applications. I’m open to collaborating on freelance projects, both part-time and full-time, and am eager to partner on initiatives that drive meaningful outcomes.</h5>
 
 ###
 
